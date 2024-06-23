@@ -14,3 +14,5 @@ Render side:
   - `token`: your_discord_token
   - `status`: normal status, can be `online`, `dnd`, `idle`
   - `custom_status`: status you want
+  - `emoji_name`: emoji name which u want to use
+  - `emoji_id`: emoji ID for the emoji.
